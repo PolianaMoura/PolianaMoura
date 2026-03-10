@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4B0082&descAlign=72&descAlignY=59&section=header&reversal=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=8A2BE2&descAlign=72&descAlignY=59&section=header&reversal=false"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=CBA6F7&center=true&vCenter=true&width=600&lines=Oi,+eu+sou+Poliana.)](https://git.io/typing-svg)
 
