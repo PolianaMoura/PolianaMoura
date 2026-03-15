@@ -7,40 +7,32 @@
 </p>
 
 ---
-• Futura estudante de Ciência da Computação. <p>
-• Interessada em programação, desenvolvimento de software, cloud computing e banco de dados.
+Sou estudante do ensino médio e futura aluna de Ciência da Computação. Estou começando a explorar programação, bancos de dados e desenvolvimento de software, registrando meus estudos e projetos neste GitHub enquanto aprendo novas linguagens e ferramentas.
 
+[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:polianamcs10@gmail.com)
 
-### Linguagens
+## Tecnologias que estou aprendendo
+
+#### Linguagens
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 
-### Banco de Dados
+#### Banco de Dados
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40">
   
-### Ferramentas
+#### Ferramentas
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 
-## Sobre mim
-Atualmente estou estudando programação e começando minha jornada na área de tecnologia. 
-Tenho interesse em desenvolvimento de software, cloud e criação de projetos práticos para aprender cada vez mais.
-
 ## Projetos
 Em breve adicionarei meus primeiros projetos aqui 🚀
-
-## 📬 Vamos nos conectar!
-
-Acompanhe minha jornada e entre em contato para trocarmos figurinhas sobre tecnologia:
-
-[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:polianamcs10@gmail.com)
 
 ---
 
