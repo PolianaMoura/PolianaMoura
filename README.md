@@ -36,4 +36,4 @@ Em breve adicionarei meus primeiros projetos aqui 🚀
 
 ---
 
-![PolianaMoura's Stats](https://github-readme-stats.vercel.app/api?username=PolianaMoura&show_icons=true&hide_border=true&count_private=true&title_color=2ED8C3&icon_color=2ED8C3&text_color=A7FFF4&bg_color=0d1117)
+![PolianaMoura's Stats](https://github-readme-stats.vercel.app/api?username=PolianaCabral&show_icons=true&hide_border=true&count_private=true&title_color=2ED8C3&icon_color=2ED8C3&text_color=A7FFF4&bg_color=0d1117)
